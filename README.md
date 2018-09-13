@@ -1,0 +1,5 @@
+# Modified-Caesar-Crypto
+Tugas Mata Kuliah Keamanan Komputer
+Program ini adalah implementasi dari jurnal kriptografi
+berikut link jurnalnya
+https://www.researchgate.net/publication/283042210_A_New_Modified_Caesar_Cipher_Cryptography_Method_with_LegibleCiphertext_From_a_Message_to_Be_Encrypted/fulltext/58894e2992851c06a133ec8b/283042210_A_New_Modified_Caesar_Cipher_Cryptography_Method_with_LegibleCiphertext_From_a_Message_to_Be_Encrypted.pdf?origin=publication_detail
